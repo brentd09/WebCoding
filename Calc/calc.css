@@ -1,0 +1,6 @@
+div {display:flex; }
+button {height: 100px; width: 100px; margin: 4pt; background-color: aqua; border:black 1pt solid; font-size: 60px; text-align: center;}
+button.symbol {background-color: blue; color: aliceblue;border:rgb(255, 255, 255) 1pt solid;}
+button:active {background-color:rgb(38, 100, 119);color: chocolate;border: chocolate 3pt solid;}
+p {background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);height: 100px;width: 900px;}
+body {background-color: rgb(34, 34, 34);}
